@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 MINDMATE AI
+# 🌿 MINDMATE
 ### Mental Wellness Assessment & Progress Tracking System
 
 **A beginner-friendly, questionnaire-based wellness web application built with C++, HTML, CSS and JavaScript.**
@@ -19,11 +19,9 @@
 
 ## 📖 1. Project Overview
 
-**MINDMATE AI** is an educational mental wellness web application designed to help users reflect on their daily feelings and habits through a short questionnaire. It calculates a **self-reported difficulty score**, suggests relevant wellness activities and spiritual reflections, and displays changes across multiple assessments.
+**MINDMATE** is an educational mental wellness web application designed to help users reflect on their daily feelings and habits through a short questionnaire. It calculates a **self-reported difficulty score**, suggests relevant wellness activities and spiritual reflections, and displays changes across multiple assessments.
 
 The project combines a responsive web interface with a straightforward **C++ backend**. The backend handles questionnaire scoring; JavaScript handles the interface, saved assessment history and visual reports.
-
-> **Important:** Despite “AI” in the project name, this version does **not** use a machine-learning model or provide medical diagnoses. Recommendations are based on simple, predefined rules.
 
 ## 🎯 2. Objectives
 
