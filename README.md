@@ -246,7 +246,7 @@ Other fundamental concepts include **objects, arrays, loops, conditions, methods
 
 ## 👩‍💻 13. Academic Project Note
 
-**MINDMATE AI** is presented as a Computer Science educational project. The GUI project and the separate CLI project are independent implementations. This repository documents the **GUI + C++ local-server version**.
+**MINDMATE** is presented as a Computer Science educational project. The GUI project and the separate CLI project are independent implementations. This repository documents the **GUI + C++ local-server version**.
 
 **Developed for academic learning and demonstration.**
 
@@ -254,7 +254,7 @@ Other fundamental concepts include **objects, arrays, loops, conditions, methods
 
 <div align="center">
 
-### 🌿 MINDMATE AI
+### 🌿 MINDMATE
 *Small steps toward greater self-awareness.*
 
 </div>
