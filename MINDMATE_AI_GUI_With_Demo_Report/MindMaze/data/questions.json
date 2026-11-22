@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "How would you describe your mood today?"
+    },
+    {
+      "id": 2,
+      "text": "How calm and emotionally peaceful do you feel today?"
+    },
+    {
+      "id": 3,
+      "text": "How much stress or pressure are you experiencing today?"
+    },
+    {
+      "id": 4,
+      "text": "How worried or anxious are you feeling today?"
+    },
+    {
+      "id": 5,
+      "text": "How well did you sleep last night?"
+    },
+    {
+      "id": 6,
+      "text": "How energetic and refreshed do you feel today?"
+    },
+    {
+      "id": 7,
+      "text": "How well can you concentrate on your studies or daily tasks today?"
+    },
+    {
+      "id": 8,
+      "text": "How connected and supported do you feel by the people around you today?"
+    },
+    {
+      "id": 9,
+      "text": "How capable do you feel of handling today's challenges?"
+    },
+    {
+      "id": 10,
+      "text": "Are you having thoughts of hurting yourself or feeling that you would be better off not alive today?"
+    }
+  ]
+}

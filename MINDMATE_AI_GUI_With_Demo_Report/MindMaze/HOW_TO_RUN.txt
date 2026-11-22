@@ -1,0 +1,23 @@
+MINDMATE AI GUI - DEV-C++
+
+1. Extract the ZIP. Keep MINDMATE_AI.cpp beside frontend/ and data/.
+2. Open MINDMATE_AI.cpp in Dev-C++.
+3. Enable C++11 and add -lws2_32 to linker options.
+4. Compile and Run (F11).
+5. Visit http://127.0.0.1:8080 in your browser.
+6. Keep the C++ console running while using the website.
+
+The C++ backend serves files and calculates questionnaire scores.
+Assessment history is stored in the browser (localStorage), not on the server.
+This GUI project is separate from your CLI project.
+
+EVALUATION DEMO
+- Open Monthly Report and click Show Demo Month. Four fictional weekly assessments,
+  a line chart, a doughnut chart and a written summary appear.
+- Click My Actual Data to return to your own saved assessments.
+- Demo records are generated in JavaScript and NEVER saved to localStorage.
+- Get Help > Psychologist Recommendations uses the original user-supplied directory.
+- SUKOON includes the original six user-shared Instagram reflection links.
+- The C++ backend is unchanged; the separate CLI project is not included.
+- If Windows Application Control blocks the EXE, ask your computer administrator
+  to review the policy. Do not disable security protections.
